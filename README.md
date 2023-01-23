@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;Second+line+of+text)](https://git.io/typing-svg)
 
+	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 
 **adeliiman/adeliiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
