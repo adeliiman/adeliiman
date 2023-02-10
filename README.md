@@ -1,6 +1,6 @@
 ### Iman Adeli
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;Algotrader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Python+Developer;Algotrading)](https://git.io/typing-svg)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
